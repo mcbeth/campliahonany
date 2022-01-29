@@ -16,16 +16,16 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Jeffrey McBeth"  # (translatable)
+BLOG_AUTHOR = "Matthew Webster"  # (translatable)
 BLOG_TITLE = "Camp Liahona"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://campliahonapalmyra.com/"
+SITE_URL = "https://campliahonany.com/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "joe@demo.site"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_EMAIL = "campliahonapalmyra@gmail.com"
+BLOG_DESCRIPTION = "Information about Camp Liahona"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -1003,7 +1003,7 @@ RSS_COPYRIGHT_FORMATS = CONTENT_FOOTER_FORMATS
 # systems.  The following comment systems are supported by Nikola:
 #   disqus, facebook, intensedebate, isso, muut, commento, utterances
 # You can leave this option blank to disable comments.
-COMMENT_SYSTEM = "disqus"
+COMMENT_SYSTEM = ""
 # And you also need to add your COMMENT_SYSTEM_ID which
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
