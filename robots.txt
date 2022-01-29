@@ -1,0 +1,4 @@
+Sitemap: https://campliahonapalmyra.com/sitemapindex.xml
+
+User-Agent: *
+Host: campliahonapalmyra.com
