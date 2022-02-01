@@ -142,15 +142,13 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "COVID Protocols"),
-        ("/archive.html", "Electronics Policy"),
-        ("/archive.html", "FAQ"),
-        ("/archive.html", "Hammock Info"),
-        ("/archive.html", "Packing Lists"),
-        ("/archive.html", "Required Forms"),
-        ("/archive.html", "Schedule"),
-        ("/archive.html", "Sign Up"),
-        ("/archive.html", "Menu"),
+        ("/covid_protocols", "COVID Protocols"),
+        ("/electronics-policy", "Electronics Policy"),
+        ("/faq", "FAQ"),
+        ("/packing-lists", "Packing Lists"),
+        ("/required-forms", "Required Forms"),
+        ("/schedule", "Schedule"),
+        ("/registration", "Sign Up"),
     ),
 }
 
