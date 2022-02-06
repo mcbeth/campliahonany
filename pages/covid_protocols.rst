@@ -8,6 +8,7 @@
 .. type: text
 
 **The following information is pertaining to 2021 camp, this page will be further updated closer to 2022 camp for relevance**
+
 Current COVID protocols require that facemasks be worn indoors, no matter vaccination status.
 
 In addition, most of the COVID-19 protocols below are based on the logistics of camp and are not activity specific.  Specific plans for each activity at camp will be developed once those activities have been identified.
