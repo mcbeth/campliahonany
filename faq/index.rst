@@ -9,6 +9,9 @@
 
 - I’m an adult coming to camp. Do I need to register? 
     Yes, everybody that attends camp even for part of a day will need to register.
+    
+- Do I need a physical to attend camp? 
+    Yes, everybody that attends camp will need to complete `the physical forms here <link://slug/required-forms>`_. 
 
 - Can I bring candy, junkfood, soda, etc.? 
     Yes, you may, but you must store food where wildlife cannot get to it. Additionally, if you bring good chocolate and I see it, you might have to share.
