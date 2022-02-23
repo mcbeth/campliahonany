@@ -59,5 +59,4 @@ Camp Committee
 
 Companies, Platoons and Squads
   Whether inherited or adopted, as members of the church we have a pioneer ancestry. Early members of the church traveled across the plains in wagon and handcart companies. Camp Liahona has adopted a similar organization and young men will be divided into companies based on quorum age. The Stake Young Men’s Camp Representatives will serve as Company Captains. In some instances, the company will be further divided into platoons. For example, the Deacons Company can be divided into Platoons and 11-year-old deacons who have never gone to camp will work on basic camp skills while the 12-year-old deacons will work on something else. Platoons can be further divided into smaller squads as necessary. 
-.. this used to end with "This year squads will likely play a bigger role in COVID-19 protections; see the COVID-19 section for more details."
 
