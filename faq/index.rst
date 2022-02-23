@@ -7,9 +7,6 @@
 .. description: 
 .. type: text
 
-- Do I have to wear a mask at all times in camp?  What if I’ve been vaccinated? What if I’ve got asthma? What if… 
-    A mask must be worn at all times indoors, regardless of vaccination status. Masks are not required at other times in camp.
-
 - I’m an adult coming to camp. Do I need to register? 
     Yes, everybody that attends camp even for part of a day will need to register.
 
