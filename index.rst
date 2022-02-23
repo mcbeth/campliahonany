@@ -7,7 +7,9 @@
 .. description: 
 .. type: text
 
+#########################################################################
 You can express interest in attending `here <link://slug/registration>`_
+#########################################################################
 
 Camp Liahona is the summer camp for young men ages 11 to 17 in the Palmyra Stake of The Church of Jesus Christ of Latter-day Saints. When Joseph Smith translated the Book of Mormon, he began by using the Urim and Thummim. He graduated to using a seer stone. Using these tools Joseph recorded the prophets Lehi and Nephi exodus from Jerusalem about 600 years B.C. Nephi and Lehi also used a tool, the Liahona, to receive divine revelation. Throughout time God had given men tools to help them receive revelation. It is our hope that Camp Liahona will be a latter-day tool to help Young Men to receive revelation from God.
 
@@ -20,16 +22,14 @@ Where:
   Camp Babcock Hovey
 
 When:
-  Tuesday August 3rd through Friday August 6th.
+  Monday August 8rd through Thursday August 11th.  With a high-adventure camp for Teachers/Priests from Thursday August 11 through Saturday August 13
 
 Cost:
   TBD
-.. probably depends on ward fundraisers, last year was close to 200 i believe
 
 Camp Theme:
   TBD
-.. could be "Our Mistakes Don't Define Us, They Refine Us", as 2021 was
-
+  
 Objectives
 ==========
 
