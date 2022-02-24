@@ -20,7 +20,7 @@ Who:
 
 Where:
   Camp Liahona will occur at Camp Babcock Hovey 
-  An additional High Adventure Camp for Teachers and Priests will occur at Massawepie Scout Camps
+  An additional `High Adventure Camp <link://slug/high-adventure>`_ for Teachers and Priests will occur at Massawepie Scout Camps
 
 When:
   Camp Liahona will be Monday August 8rd through Thursday August 11th.  
