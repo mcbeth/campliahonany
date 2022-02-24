@@ -8,7 +8,7 @@
 .. type: text
 
 #########################################################################
-You can express interest in attending `here <link://slug/registration>`_
+You can express interest in attending and pre-register `here <link://slug/registration>`_
 #########################################################################
 
 Camp Liahona is the summer camp for young men ages 11 to 17 for The Church of Jesus Christ of Latter-day Saints in upstate New York. When Joseph Smith translated the Book of Mormon, he began by using the Urim and Thummim. He graduated to using a seer stone. Using these tools Joseph recorded the prophets Lehi and Nephi exodus from Jerusalem about 600 years B.C. Nephi and Lehi also used a tool, the Liahona, to receive divine revelation. Throughout time God had given men tools to help them receive revelation. It is our hope that Camp Liahona will be a latter-day tool to help Young Men to receive revelation from God.
