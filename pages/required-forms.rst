@@ -18,18 +18,19 @@ We are using the Boy Scouts of America facilities and will also be utilizing the
 YM's Camp
 ---------
 All participants including YM, adult leaders, support staff etc are REQUIRED to complete parts A and B of the physical form linked below. Because the duration of camp is less that 72 hours part C is not required (see exceptions below), but it is STRONGLY recommended. 
+
 Part C Exceptions - If you have any additional risk factors including those listed below, it means that you may have an increased chance of having problems while at a camp event and Part C will be required. Some additional risk factors include: 
- - Obesity (BSA recommendation is BMI of >30 should consult physician)
- - Cardiac or Cardiovascular Disease
- - Hypertension
- - Diabetes
- - Seisures
- - Asthma
- - Allergies or Anaphylaxis
- - Recent Musculoskeletal injury or surgery
- - Psychiatric/psycological and/or emotional difficulties
- - Immunodeficiency
- - Others. Note this list is not intended to be all encompasing. If you have any other risk factors not listed here, but may pose a risk to your health please see a physician and complete part C of the physical form. 
+- Obesity (BSA recommendation is BMI of >30 should consult physician)
+- Cardiac or Cardiovascular Disease
+- Hypertension
+- Diabetes
+- Seizures
+- Asthma
+- Allergies or Anaphylaxis
+- Recent Musculoskeletal injury or surgery
+- Psychiatric/psycological and/or emotional difficulties
+- Immunodeficiency
+- Others. Note this list is not intended to be all encompasing. If you have any other risk factors not listed here, but may pose a risk to your health please see a physician and complete part C of the physical form. 
 
 High Adventure
 --------------
