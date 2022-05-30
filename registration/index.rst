@@ -7,6 +7,10 @@
 .. description: 
 .. type: text
 
-`Youth Interest Form <https://docs.google.com/forms/d/e/1FAIpQLSfbxAiPW13aaqO976bXyFivhOKMi1I-wgkluhsGismpDeyJuw/viewform?usp=sf_link>`_
+.. `Youth Interest Form <https://docs.google.com/forms/d/e/1FAIpQLSfbxAiPW13aaqO976bXyFivhOKMi1I-wgkluhsGismpDeyJuw/viewform?usp=sf_link>`_
 
-`Adult Interest Form <https://docs.google.com/forms/d/e/1FAIpQLSfvcDoto6eIgAEcNts308pajNJLJhytM255vCuR8poO2QLy5g/viewform?usp=sf_link>`_
+.. `Adult Interest Form <https://docs.google.com/forms/d/e/1FAIpQLSfvcDoto6eIgAEcNts308pajNJLJhytM255vCuR8poO2QLy5g/viewform?usp=sf_link>`_
+
+`Young Men Registration Form <https://docs.google.com/forms/d/1x84fNVEws613XJmWJezhEVyHbJJeCui9sNE-Q-pM_5A/prefill>`_
+
+`Adult Registration Form <https://docs.google.com/forms/d/1EcJMw6OaRYLAeDSZjTa97F7SxKovOt9kiVo2FIh6Kwo/prefill>`_
