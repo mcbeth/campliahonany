@@ -20,11 +20,11 @@ Who:
 
 Where:
   Camp Liahona will occur at Camp Babcock Hovey 
-  An additional `High Adventure Camp <link://slug/high-adventure>`_ for Teachers and Priests will occur at Massawepie Scout Camps
+  An additional `High Adventure Camp <link://slug/high-adventure>`_ for Teachers and Priests in the Palmyra and Syracuse Stakes will occur at Massawepie Scout Camps
 
 When:
   Camp Liahona will be Monday August 8rd through Thursday August 11th.  
-  The high-adventure camp for Teachers/Priests will be from Thursday August 11 through Saturday August 13
+  The high-adventure camp for Teachers/Priests in the Palmyra and Syracuse Stakes will be from Thursday August 11 through Saturday August 13
 
 Cost:
   TBD
@@ -55,9 +55,6 @@ Tradition
   
 Camp Organization
   Coming Soon
-
-Camp Committee
-  The committee is composed of 1-2 young men from each of the units in the each stake. Bishops identified and recommended the young men to participate in the committee. The committee will shape camp and help to create experiences to meet the camp objectives. A few young men from the Camp Committee will receive a calling as a Stake Young Men’s Camp Representatives and will receive additional leadership assignments and responsibilities.
 
 Companies, Platoons and Squads
   Whether inherited or adopted, as members of the church we have a pioneer ancestry. Early members of the church traveled across the plains in wagon and handcart companies. Camp Liahona has adopted a similar organization and young men will be divided into companies based on quorum age. The Stake Young Men’s Camp Representatives will serve as Company Captains. Companies will be further divided into platoons and then into Squads. For example, the Deacons Company could theoretically be divided into Platoons of 11-year-old deacons and 12-year-old deacons. Those platoons will be further divided into Squads of approximately 10 YM. Activities will happen at the Squad, Platoon and Company levels.  
