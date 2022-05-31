@@ -11,6 +11,6 @@
 
 .. `Adult Interest Form <https://docs.google.com/forms/d/e/1FAIpQLSfvcDoto6eIgAEcNts308pajNJLJhytM255vCuR8poO2QLy5g/viewform?usp=sf_link>`_
 
-`Young Men Registration Form <https://docs.google.com/forms/d/1x84fNVEws613XJmWJezhEVyHbJJeCui9sNE-Q-pM_5A/prefill>`_
+`Young Men Registration Form <https://docs.google.com/forms/d/e/1FAIpQLSfOjnAV_i7GUxLFkJtHDoM4pZW873WTux-oCaArIdVJinO7dg/viewform?usp=sf_link>`_
 
-`Adult Registration Form <https://docs.google.com/forms/d/1EcJMw6OaRYLAeDSZjTa97F7SxKovOt9kiVo2FIh6Kwo/prefill>`_
+`Adult Registration Form <https://docs.google.com/forms/d/e/1FAIpQLSc01MVd6STvJTMokMAvuiaDgQe7IYwkI25CkXM47KZnVbDJFA/viewform?usp=sf_link>`_
