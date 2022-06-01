@@ -12,6 +12,7 @@ Required
 
 - □ A sense of adventure
 - □ Willingness to learn
+- □ Water Bottle
 - □ Day pack
 - □ Backpack to carry the following
 - □ Sleeping Bag
