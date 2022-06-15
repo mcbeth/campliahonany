@@ -30,7 +30,7 @@ Cost:
   TBD
 
 Camp Theme:
-  TBD
+  `Joshua 24:15 <https://www.churchofjesuschrist.org/study/scriptures/ot/josh/24?lang=eng&id=15#p15>`_ ... as for me and my house, we will serve the LORD.
   
 Objectives
 ==========
