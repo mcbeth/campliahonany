@@ -51,13 +51,15 @@ Where: Basecamp will be at BSA Camp Massawepie, however it is likely we will be 
 
 Food: You will be providing your own meals, and so need food, stove/fuel/ignition, cooking/eating/cleaning supplies, money/packed for the travelling meals.  Do *not* count on using a campfire.  Make sure you know how to clean your gear.  
 
+One site we enjoy for backpacking meal ideas is `Outdoor Eats <https://outdooreats.com/>`_
+
 Equipment:  As desired, pack light enough to walk several miles with all your gear, heavy enough to be comfortable at camp.  Having a day pack to help carry light on Friday (see the 10 essentials) would help)
 
 Many people provide good packing lists.  `REI's is here <https://www.rei.com/dam/backpacking_checklist.pdf>`_
 
 Fundamentally, you need to fill the ten essentials
 
-     1. Navigation (map/compass, GPS, etc)
+     1. Navigation (map/compass or GPS, etc)
 
      2. Headlamp
 
