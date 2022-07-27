@@ -26,7 +26,7 @@ What will we be doing:
 
    * 8:00 AM Break Camp
 
-   * TBD
+   * Choose Your Own Adventure (see below)
 
    * Hike/Paddle to Campsite #2 at Massawepie
 
@@ -48,6 +48,7 @@ Campers at the High Adventure portion of camp will be expected to pack all of th
 When is High Adventure: 11-13 August 2022
 
 Where: Basecamp will be at BSA Camp Massawepie, however it is likely we will be spending significant time offsite and/or outpost camping  
+
 
 Food: You will be providing your own meals, and so need food, stove/fuel/ignition, cooking/eating/cleaning supplies, money/packed for the travelling meals.  Do *not* count on using a campfire.  Make sure you know how to clean your gear.  
 
@@ -127,4 +128,14 @@ Forms
 
 - `BSA Physical Forms A,B and C (part C must be signed by a licensed health-provider) <http://www.scouting.org/filestore/HealthSafety/pdf/680-001_ABC.pdf>`_
   
-- Swim Check is required if you want to be in a cano e
+- Swim Check is required if you want to be in a canoe
+
+
+Choose Your Own Adventure
+=========================
+
+Mountain Biking: Intermediate level mountain biking. You need to have your own bike and helmet. Transportation for your bicycle will be provided.
+
+Hiking Tupper Triad: Hike up three small mountains in the Tupper Lake area. One of them, Mt. Arab, includes a fire tower at the top. A badge is available, for a small fee, by registering `HERE <https://www.adkdata.com/p/challenges/register/tupper-lake-triad>`_. Total hiking distance 7.8 miles.
+
+Hiking Donaldson, Emmons and Seward Mountains: This will be a challenging 16 mile loop covering all three peaks. Total elevation gain 3850ft. All three peaks are 46ers. Expect some muddy conditions and a strenuous hike. 
