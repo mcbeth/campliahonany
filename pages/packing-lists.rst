@@ -27,6 +27,7 @@ Required
 - □ Clothing
 	- □ A change of clothes for each day including a change of underwear
 	- □ Swim suit
+	- □ Lake Shoes (protect against foot cuts from lake floor)
 	- □ Warm clothes
 	- □ Rain Clothes/Poncho
 	- □ Hat
