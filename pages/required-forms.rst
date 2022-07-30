@@ -44,3 +44,9 @@ Medication Forms
 In addition to physical forms, in case of emergency, we need to know what over the counter medicines we can use to help the camper
 
 `OTC Permission <https://drive.google.com/file/d/145HkJy8ROKj76vDQcmdPMmjTvokOlXsL/view>`_
+
+Swim Check Form  
+----------------
+Ideally swim checks will be completed as unit and/or stake prior to attending camp. Most public pools have someone who is qualified to certify swim checks. See the linked document for who is eligible to sign off, and the requirements for swimmers. 
+
+`Swim Check <https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjJ87ua_pf5AhWSk4kEHa8EDJwQFnoECAkQAQ&url=https%3A%2F%2Fscoutingevent.com%2FDownload%2F39757653%2FOR%2FSummer_Swim_Checks.pdf&usg=AOvVaw0TJwQBfkKiz6vg_iwlgieo>`_
