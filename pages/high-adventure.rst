@@ -138,4 +138,6 @@ Mountain Biking: Intermediate level mountain biking. You need to have your own b
 
 Hiking Tupper Triad: Hike up three small mountains in the Tupper Lake area. One of them, Mt. Arab, includes a fire tower at the top. A badge is available, for a small fee, by registering `HERE <https://www.adkdata.com/p/challenges/register/tupper-lake-triad>`_. Total hiking distance 7.8 miles.
 
-Hiking Donaldson, Emmons and Seward Mountains: This will be a challenging 16 mile loop covering all three peaks. Total elevation gain 3850ft. All three peaks are 46ers. Expect some muddy conditions and a strenuous hike. 
+Hiking Donaldson, Emmons and Seward Mountains: This will be a challenging 18-20 mile loop covering all three peaks. Total elevation gain 3850ft. All three peaks are 46ers. Expect some muddy conditions and a strenuous hike.  (If there are enough of you crazy enough to fill this group, pereference will be given to older YM).
+
+You can `select your option here <https://docs.google.com/forms/d/e/1FAIpQLSeevC3XJEVT3s6fpoShluxbI_wJ9lhVdO-m6-xnaxJt8AaFIA/viewform?usp=sf_link>`_
