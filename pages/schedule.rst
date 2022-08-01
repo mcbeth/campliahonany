@@ -12,9 +12,9 @@ Time  Monday     Tuesday    Wednesday  Thursday
 ----- ---------- ---------- ---------- --------
 7:00             Wake       Wake
 7:30  Arrive  
-8:00             BFast      BFast      BFast
-9:00             Activity   Activity   Depart
-10:30            Activity   Activity
+8:00  Arrive     BFast      BFast      BFast
+9:00  Arrive     Activity   Activity   Depart
+10:30 Setup      Activity   Activity
 12:00 Lunch      Lunch      Lunch
  1:00 Rest       Rest       Rest
  2:00 Activity   Activity   Activity
